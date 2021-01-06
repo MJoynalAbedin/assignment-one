@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body{
+    margin:0px;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(238, 234, 225);
+}
+.font-style{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding:2%;
+}
+.font-style img{
+    width: 400px;
+}
+p{
+    color: dimgray;
+}
+span{
+    color:orange;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 400px;
+    display: block;
+}
+.button{
+    font-size: 15px;
+    padding: 10px 25px;
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, darksalmon,tomato);
+}
+.name{
+    font-size: 50px;
+}
+.hh2{
+    color: tomato;
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+.hh1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.menu{
+    height:40px;
+    float: right;
+    width:400px;
+}
+.menu ul li{
+	padding:0px;
+    margin:0px;
+    list-style:none;
+    height:40px;
+    width:80px;
+    float:left;
+	position:relative;
+}
+.menu ul li a{
+    text-decoration:none;
+	text-align:center;
+    display:block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color:black;
+	line-height:40px
+}
+.menu ul li a:hover{
+	background-color:pink;
+	color:black;
+	font-size:20px;
+	border-radius:25px;
+}
+i{
+    color:white;
+    margin-right: 5px;
+}
+section{
+    float:left;
+    width: 100%;
+}
+#section{
+    margin-top: 100px;
+    height :500px;
+    background-color: rgb(224, 213, 213);
+}
+.new{
+    margin:auto;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+}
+span{
+    color: tomato;
+}
+.box{
+    float: left;
+    height:300px;
+    width:300px;
+    margin-left:50px;
+    overflow: hidden;
+}
+.box img{
+    width:280px;
+    padding:10px;
+}
+.whole{
+    margin-left:7%
+}
+.box{
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 20px;
+}
+.box h3{
+    margin-top: -10px;
+    margin-bottom: -30px;
+}
+.write{
+    padding:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.section4{
+    height: 400px;
+    width:100%;
+    background-image: url("./img/Group_33094_1.png");
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(219, 211, 191)
+}
+.section4 H1{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    margin-top:160px;
+    margin-left: -350px;;
+}
+.move{
+    margin-left:800px;
+    margin-top:-85px;
+}
+.section5{
+    height: 350px;
+    width: 100%;
+}
+.section5 div{
+    width: 90%;
+    margin:auto;
+    height: 90%;
+    background-image: linear-gradient(45deg, rgb(111, 38, 230), tomato);
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 20px;
+    color:white;
+}
+.section5 h1{
+    text-align: center;
+}
+.section5 p{
+    color:white
+}
+.txt{
+    padding: 10px 20px
+}
+.last{
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;;
+}
+.last img{
+    width: 30px;
+    margin-right: 25px;
+}
+.last div{
+    margin-left: 44%;
+
+}
+.foot{
+    color: dimgray;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
